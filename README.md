@@ -2,7 +2,9 @@
 
 ## Instructions
 
-Code your solution using JavaScript in `index.js`. **Be sure to run and test your code throughly!**
+1. Code your solution using JavaScript in `index.js`. 
+2. **Be sure to run and test your code throughly!**
+3. By the end of Code Challenge, _commit and push your changes up to Github_.
 
 ## Description of the Problem
 
