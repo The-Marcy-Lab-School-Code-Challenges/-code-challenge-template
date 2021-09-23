@@ -1,4 +1,4 @@
-# Code Challenge: <itle Goes Here
+# Code Challenge: Title Goes Here
 
 ## Instructions
 
